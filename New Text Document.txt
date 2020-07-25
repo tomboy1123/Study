@@ -1,0 +1,7 @@
+Back-end:
+
+- hoc lap trinh huong doi tuong (quan trong nhat)
+- ngon ngu lap trinh:
+	+ .NET: C#, VB.NET
+	+ Java
+- 
